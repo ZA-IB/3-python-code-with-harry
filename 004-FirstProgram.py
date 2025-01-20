@@ -1,8 +1,0 @@
-print("hello world")
-print(5)
-print(5+6)
-print(7-9)
-print(9-7)
-print(8*9)
-print(25/5)
-print(5/25)
